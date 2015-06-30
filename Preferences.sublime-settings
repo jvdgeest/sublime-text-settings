@@ -11,6 +11,7 @@
     "Markdown"
   ],
   "soda_folder_icons": true,
+  "spell_check": true,
   "tab_size": 2,
   "theme": "Soda Dark 3.sublime-theme",
   "translate_tabs_to_spaces": true
