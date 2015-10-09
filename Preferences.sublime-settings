@@ -1,18 +1,25 @@
 {
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "detect_indentation": false,
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+  "copy_with_empty_selection": true,
+  "detect_indentation": true,
   "ensure_newline_at_eof_on_save": true,
-  "font_size": 10,
+  "font_size": 11,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
   [
-    "Vintage",
-    "Markdown"
+    "Markdown",
+    "Vintage"
   ],
-  "soda_folder_icons": true,
+  "rulers":
+  [
+    80
+  ],
   "spell_check": true,
   "tab_size": 2,
-  "theme": "Soda Dark 3.sublime-theme",
-  "translate_tabs_to_spaces": true
+  "theme": "Spacegray Eighties.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
 }
