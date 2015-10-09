@@ -2,7 +2,9 @@
 
 You should clone this repository to this location:
 
-* Windows: `C:\Users\...\AppData\Roaming\Sublime Text 3\Packages\User`
+* Linux: `~/.config/sublime-text-3/Packages/User`
+* OS X: `~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`
+* Windows: `%APPDATA%\Sublime Text 3\Packages\User`
 
 # Git support
 
