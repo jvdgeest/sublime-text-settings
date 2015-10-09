@@ -1,32 +1,32 @@
 {
-  "bootstrapped": true,
-  "in_process_packages":
-  [
-  ],
-  "installed_packages":
-  [
-    "Alignment",
-    "All Autocomplete",
-    "API Blueprint",
-    "Babel",
-    "BracketHighlighter",
-    "ColorPicker",
-    "DocBlockr",
-    "Emmet",
-    "Git",
-    "Grails",
-    "HTML5",
-    "Javascript Beautify",
-    "jQuery",
-    "JsFormat",
-    "LESS",
-    "MarkdownEditing",
-    "Package Control",
-    "Pretty JSON",
-    "Sass",
-    "SideBarEnhancements",
-    "SublimeCodeIntel",
-    "SublimeLinter",
-    "Theme - Spacegray"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"API Blueprint",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Grails",
+		"HTML5",
+		"Javascript Beautify",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Spacegray"
+	]
 }
